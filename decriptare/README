@@ -1,0 +1,31 @@
+                		    Tema de casă 2 - Decriptare
+
+  Despre ce este vorba?
+  ---------------------
+
+  Criptarea este procesul de ascundere a informației pentru a o face ilizibilă 
+  fără cunoștințe speciale. Una dintre cele mai simple metode de criptare este 
+  criptarea prin deplasare. Astfel, având un alfabet și o cheie k, definim 
+  criptare prin deplasare ca înlocuirea fiecărei litere din textul inițial cu o 
+  literă care se află în alfabet la distanță k față de cea înlocuită (alfabetul 
+  este circular, dupa z urmează a).
+
+  Aplicatia de fata poate fi utilizata cu succes in decriptarea textelor codate
+  cu algoritmul prezentant mai sus.
+
+  Compilare
+  ---------
+
+  Lista de fisiere:
+	Makefile
+	README
+	main.c
+
+  Programul poate fi compilat folosind argumentele default ale comenzii make.
+
+  Contact
+  -------
+
+  Pentru a fi la curent cu utimele versiuni ale aplicatiei, bug-fix-uri, patch-uri,
+  stiri si informatii generale, sau pentru a raporta eventuale bug-uri, folositi
+  pagina de Github a aplicatiei <https://github.com/mcvx/decriptare>

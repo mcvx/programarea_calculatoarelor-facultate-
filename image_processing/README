@@ -1,0 +1,34 @@
+                		    Tema de casă 3 - Image Processing
+
+  Despre ce este vorba?
+  ---------------------
+
+  Procesarea de imagini este un domeniu foarte vast în computer science, aflat 
+  în strânsă legătură cu alte domenii precum computer graphics și computer vision.
+
+  Cu toții ați auzit de face detection și de device-urile sau aplicațiile care 
+  îl integrează printre feature-urile lor și pe acesta. Câteva exemple sunt: 
+  focalizarea, înainte de a face o poză, pe smartphone-uri/camere foto, facebook,
+  care îți recomandă să îți tăguiești prietenii din poză, marcându-le fața într-un
+  chenar, etc.
+
+  Ne propunem să simulăm, la un nivel simplificat, algoritmul care stă în spatele
+  face detection-ului, având ca use case protejarea identității, prin blur-area
+  fețelor detectate (puteți lua ca exemplu Street View-ul de la Google Maps).
+  De ce simplificat? Deoarece complexitatea algoritmilor care fac asta ar depăși
+  scopul acestui curs și ar fi, de asemenea, și foarte greu de automatizat testarea
+  unei astfel de procesări. 
+
+  Compilare
+  ---------
+
+  Lista de fisiere:
+	Makefile
+	README
+	main.c
+	bmp.h
+	bmp.c
+	utils.h
+	utils.c
+
+  Programul poate fi compilat folosind argumentele default ale comenzii make.

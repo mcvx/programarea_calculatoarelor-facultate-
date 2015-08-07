@@ -1,0 +1,27 @@
+                          		Pomi Vesteji
+
+  Despre ce este vorba?
+  ---------------------
+
+  Pomi vesteji este un utilitar puternic si flexibil destinat detinatorilor
+  de livezi, care vor sa-si curete gradinile intr-un mod cat mai eficient.
+
+  Compilare
+  ---------
+
+  Lista de fisiere:
+	Makefile
+	README
+	rezolvare
+	main.c
+	utils.c
+	utils.h
+
+  Programul poate fi compilat folosind argumentele default ale comenzii make.
+
+  Contact
+  -------
+
+  Pentru a fi la curent cu utimele versiuni ale aplicatiei, bug-fix-uri, patch-uri,
+  stiri si informatii generale, sau pentru a raporta eventuale bug-uri, folositi
+  pagina de Github a aplicatiei <https://github.com/mcvx/pomi_vesteji>
